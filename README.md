@@ -1,2 +1,2 @@
-# AstxikMedicalCentrer-GUI-Testing-
-GUI-Testing
+1. Bug
+the image should span the entire screen․
